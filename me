@@ -95,4 +95,7 @@ summary(model2)
 
 #mape calculation
 resid<-as.data.frame(model2$residuals)
-data_mape<-cbind(data6,resid)data_mape$resid_per<-abs(data_mape$`model2$residuals`/data_mape$NTB)sum(data_mape$resid_per)/nrow(data_mape)*100 #MAPE VALUE
+
+data_mape<-cbind(data6,resid)
+data_mape$resid_per<-abs(data_mape$`model2$residuals`/data_mape$NTB)
+sum(data_mape$resid_per)/nrow(data_mape)*100 #MAPE VALUE
