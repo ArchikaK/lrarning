@@ -1,0 +1,45 @@
+
+
+ 
+
+However,there are some advanced
+packages that we can explore.
+
+https://www.softserveinc.com/en-us/tech/blogs/recommender-comparison-algorithm/
+
+ 
+
+ 
+
+Recommenderlab : https://cran.r-project.org/web/packages/recommenderlab/vignettes/recommenderlab.pdfSlopeOneRecosystem https://cran.r-project.org/web/packages/recosystem/recosystem.pdfSVDApproximationRrecsys: https://cran.r-project.org/web/packages/rrecsys/rrecsys.pdf
+
+
+
+
+
+
+
+
+
+ 
+
+For product sequencing these are
+the packages that we can explore:
+
+ 
+
+1.https://cran.r-project.org/web/packages/TraMineR/index.html
+
+2. https://cran.r-project.org/web/packages/arules/arules.pdf
+
+3. https://cran.r-project.org/web/packages/arulesSequences/arulesSequences.pdf
+
+ 
+
+In addition, here are some great
+articles on product sequencing and collaborative filtering: http://analyzecore.com/2014/12/04/sequence-carts-in-depth-analysis-with-r/
+
+https://ashokharnal.wordpress.com/2014/12/18/worked-out-example-item-based-collaborative-filtering-for-recommenmder-engine/
+
+http://www.cs.carleton.edu/cs_comps/0607/recommend/recommender/itembased.html
+
